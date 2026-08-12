@@ -1,0 +1,1 @@
+Este es un Docker para levantar Apache Spark. Para trabajar los notebooks se recomienda el uso de Visual Studio Code con la extensión "Jupyter". Luego a eso se debe acceder al servidor Jupyter incluido, para obtener la URL con la contraseña que servirá para conectarlal kernel del contenedor.
